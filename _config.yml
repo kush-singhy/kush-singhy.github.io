@@ -23,10 +23,11 @@ email:
 description: >- # this means to ignore newlines until "baseurl:"
   Documenting my life and interests :)
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://kush-singhy.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://kush-singhy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username: kush-singhy
 
+author: Kush Singhy
 # Build settings
 # Removed minima as it is now a regular theme
 # theme: minima
